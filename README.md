@@ -1,12 +1,10 @@
-# Нагорная Елена Владимировна                
+                
 ![resume2](https://github.com/ElenNagornaya/resume/assets/147411924/432faf15-8588-49d9-8601-fb7c1db75bf0)
+# Нагорная Елена Владимировна
 
-
-Телефон: +7 (905) 741-74-09
-
-Email: elen_nagornaya@mail.ru
-
-Telegram: elen_nagornaya
+Телефон: +7 (905) 741-74-09  
+Email: elen_nagornaya@mail.ru  
+Telegram: elen_nagornaya  
 
 ## QA Engineer (Junior)
 
